@@ -1,0 +1,14 @@
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\bin\Debug\net8.0\Ejercico2Programacion.exe
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\bin\Debug\net8.0\Ejercico2Programacion.deps.json
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\bin\Debug\net8.0\Ejercico2Programacion.runtimeconfig.json
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\bin\Debug\net8.0\Ejercico2Programacion.dll
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\bin\Debug\net8.0\Ejercico2Programacion.pdb
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\Ejercico2Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\Ejercico2Programacion.AssemblyInfoInputs.cache
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\Ejercico2Programacion.AssemblyInfo.cs
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\Ejercico2Programacion.csproj.CoreCompileInputs.cache
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\Ejercico2Programacion.dll
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\refint\Ejercico2Programacion.dll
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\Ejercico2Programacion.pdb
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\Ejercico2Programacion.genruntimeconfig.cache
+C:\Users\MINED\source\repos\Ejercico2ProgramacionDemo\Ejercico2Programacion\obj\Debug\net8.0\ref\Ejercico2Programacion.dll
